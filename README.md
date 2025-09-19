@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Cover Image">
+</div>
+
 <h1 align="center">Hi 👋, I'm Sandul Renuja</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
