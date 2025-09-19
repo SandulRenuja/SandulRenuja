@@ -5,15 +5,11 @@
 
 - 🔭 I’m currently Study on **wolverhampton university**
 
+- 💬 Ask me about **Java**
+
 - 👀 I enjoy building and contributing to projects that solve **real-world problems.**
 
 - 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Java**
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
