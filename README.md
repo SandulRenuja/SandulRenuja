@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Cover Image">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Cover Image" height="200">
 </div>
 
 <h1 align="center">Hi 👋, I'm Sandul Renuja</h1>
